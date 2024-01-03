@@ -2,12 +2,14 @@ Project Name:
 Go No Queue Rush Estimator
 
 Technological stack:
+
 1.	Python
 2.	Node-red
 3.	IBM Watson IoT platform
 
 Description:
-🍽️ Welcome to Go No Queue Rush Estimator! This solution is tailor-made for corporate cafeterias, leveraging the power of IBM IoT Watson and Node-RED technologies. The Go No Queue Rush Estimator transforms lunchtime management with real-time data analytics, predictive insights, and streamlined cafeteria operations.
+
+This comprehensive People Counter system leverages advanced Computer Vision techniques in conjunction with the powerful IBM Watson Internet of Things (IoT) platform. Designed for accuracy and real-time analytics, this project provides a robust solution for monitoring foot traffic, enabling insights crucial for crowd management, security, and space utilization.
 
 Key Features:
 
